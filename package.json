@@ -1,0 +1,17 @@
+{
+  "name": "wakanow_nodejs",
+  "version": "1.0.0",
+  "description": "Wakanow API wrapper",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": "https://github.com/Radi-dev/wakanow_nodejs.git",
+  "author": "Radi <evaradi18@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "qs": "^6.11.0"
+  }
+}
